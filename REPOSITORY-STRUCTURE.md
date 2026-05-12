@@ -1,11 +1,11 @@
 # Repository Structure
 
-Visual overview of the IBM Bobathon Amsterdam Labs repository organization.
+Visual overview of the IBM Bobathon Sweden Labs repository organization.
 
 ## Directory Tree
 
 ```
-bobathon-amsterdam-labs/
+bobathon-sweden/
 ├── README.md                          # Main repository overview
 ├── .gitignore                         # Git ignore rules
 ├── REPOSITORY-STRUCTURE.md            # This file
@@ -206,7 +206,7 @@ graph TD
 This repository structure is designed to accommodate additional labs:
 
 ```
-bobathon-amsterdam-labs/
+bobathon-sweden/
 ├── Lab 1 - [Topic]/              # Future lab
 │   └── Prerequisites/            # Lab-specific setup
 ├── Lab 2 - Build Agentic Workflows Programmatically on watsonx Orchestrate Using IBM Bob/
